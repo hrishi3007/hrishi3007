@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hrishi3007.hrishi3007" />
+
 
 <!--Banner-->
 ![Kiran1689 Banner Image](./banner.png)
@@ -11,31 +11,24 @@
 </div>
 <div align="left">
  
- 🔭 I’m currently working on **a marketplace**
+ 🌱 I’m currently learning **PHP, CMS and Full-Stack Devleopment**
  
- 🌱 I’m currently learning **PHP, CMS, AWS**
+ 🤝 Highly instrested for collaboration in **Full Stack development Projects**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/hrishi3007/hrishi3007/issues)**
+💬 Ask me about **Frontend , React.js, Firebase... or anything [here](https://github.com/hrishi3007/hrishi3007/issues)**
+ 
+📧 Reach me at **hrishikolte3@gmail.com**
+<br/>
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=hrishi3007.hrishi3007" />
+<br/>
  </div>
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hrishikesh-kolte-19a11421b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hrishikesh-kolte-19a11421b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hrishikesh-kolte-19a11421b/"blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hrishikesh-kolte-19a11421b/" height="30" width="40" /></a>
+<a href="https://instagram.com/hrishiiik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/hrishiiik" height="30" width="40" /></a>
 </p>
-<div align="center"> 
-  <a href="hrishikolte3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
 
  <hr/>
  
