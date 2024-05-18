@@ -3,7 +3,7 @@
 <!--Banner-->
 ![Kiran1689 Banner Image](./banner.png)
 
-<h3 align="center">A software developer fueled by passion and creativity</h3>
+<h3 align="left"></h3>
 
 <br/>
 <div>
