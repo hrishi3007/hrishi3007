@@ -1,8 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hrishi3007.hrishi3007" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hrishikesh+Kolte!;" />
-</h1>
+<!--Banner-->
+![Kiran1689 Banner Image](./banner.png)
 
 <h3 align="center">A software developer fueled by passion and creativity</h3>
 
