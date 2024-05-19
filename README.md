@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **PHP, CMS and Full-Stack Devleopment**
  
- 🤝 Highly instrested for collaboration in **Full Stack development Projects**
+ 🤝 Highly interested for collaboration in **Full Stack development Projects**
 
 💬 Ask me about **Frontend , React.js, Firebase... or anything [here](https://github.com/hrishi3007/hrishi3007/issues)**
  
